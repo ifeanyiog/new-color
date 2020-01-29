@@ -1,0 +1,52 @@
+h1{
+    color: rgba(0, 255, 0 1);
+}
+h2{
+    color:  rgb(255, 0, 255);
+}
+h3{
+    color: rgba(0, 0,255 0.5);
+}
+/* adding background color */
+body{
+background-color: rgb(150, 150, 150);
+}
+/* change background color of h2 to white */
+h2{
+    background-color:white;
+    width: 200px;
+}
+    h1,p{
+        text-align: right;
+    }
+    p{
+        background-color: bisque;
+    }
+    span{
+        color: blue;
+    }
+
+/*puting h1,h2 & h3 inside a box and style the box  */
+
+div{
+    background-color: gold;
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+     box-shadow: 0 8px 6px -6px black; 
+     margin-bottom: 20px;   
+     
+}
+
+.eco{
+    background-color: cornflowerblue;
+}
+.stanbic ibtc{
+    background-color: blue;
+}
+.uba{
+    background-color: aqua;
+}
+
+
+
